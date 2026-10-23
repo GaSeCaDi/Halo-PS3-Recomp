@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "expected": {
+    "name": "mainmenu",
+    "version": "11",
+    "file_size": "55234560",
+    "header_bytes": "12288",
+    "build": "11855.07.08.20.2317.halo3_ship",
+    "scenario": "levels\\ui\\mainmenu\\mainmenu",
+    "header_crc32": "51094e28",
+    "parser_checks": "8/8"
+  },
+  "ps3_report": {
+    "path": "/app_home/mainmenu.map",
+    "name": "mainmenu",
+    "version": "11",
+    "file_size": "55234560",
+    "header_bytes": "12288",
+    "build": "11855.07.08.20.2317.halo3_ship",
+    "scenario": "levels\\ui\\mainmenu\\mainmenu",
+    "header_crc32": "51094e28",
+    "parser_checks": "8/8"
+  },
+  "ps3_exit_marker": 0,
+  "original_matches_initial_inventory": true,
+  "map_sha256": "edce049a6e199a766d2d85ade1efcb284dd919ab0e883efe6ac4c2f28ec350e0",
+  "self_bytes": 87952,
+  "self_sha256": "e0690d844308e7ef5a219cb529e8c32fb61d14211e38672a89f64fcbc1be5c50",
+  "limitations": "Header recognition only. No tag loading, scene rendering, game runtime or real PS3 hardware validation."
+}

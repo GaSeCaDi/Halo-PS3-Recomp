@@ -1,0 +1,7 @@
+Player 1 Input:
+  Handler: Keyboard
+  Device: Keyboard
+  Config:
+    Cross: K
+    Circle: L
+    Start: Return

@@ -1,0 +1,11 @@
+{
+  "file_size": 55234560,
+  "header_size": 12288,
+  "header_crc32": "51094e28",
+  "sha256": "edce049a6e199a766d2d85ade1efcb284dd919ab0e883efe6ac4c2f28ec350e0",
+  "staged_sha256": "edce049a6e199a766d2d85ade1efcb284dd919ab0e883efe6ac4c2f28ec350e0",
+  "name": "mainmenu",
+  "version": 11,
+  "build": "11855.07.08.20.2317.halo3_ship",
+  "scenario": "levels\\ui\\mainmenu\\mainmenu"
+}

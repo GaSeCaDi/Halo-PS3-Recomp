@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "maps": 25,
+  "nonempty_maps": 23,
+  "entries_compared_field_by_field": 251128,
+  "crc_matches": 25,
+  "negative_and_positive_checks": "15/15",
+  "exit_code": 0
+}

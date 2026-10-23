@@ -1,0 +1,12 @@
+{
+  "resource_id": "e1630000",
+  "source_map": "mainmenu.map",
+  "page_index": 0,
+  "codec": 0,
+  "compressed_bytes": 3267468,
+  "uncompressed_bytes": 8429568,
+  "segment_offset": 7245824,
+  "compressed_crc32": "b750cd29",
+  "page_crc32": "34934881",
+  "segment_prefix_crc32": "761e5231"
+}

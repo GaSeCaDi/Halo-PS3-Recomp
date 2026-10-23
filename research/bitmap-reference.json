@@ -1,0 +1,143 @@
+{
+  "image_records": 34136,
+  "maps": [
+    {
+      "map": "005_intro",
+      "bitmap_tags": 873,
+      "image_records": 999,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "010_jungle",
+      "bitmap_tags": 1316,
+      "image_records": 1570,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "020_base",
+      "bitmap_tags": 1699,
+      "image_records": 2017,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "030_outskirts",
+      "bitmap_tags": 1601,
+      "image_records": 1770,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "040_voi",
+      "bitmap_tags": 1857,
+      "image_records": 2064,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "050_floodvoi",
+      "bitmap_tags": 1959,
+      "image_records": 2152,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "070_waste",
+      "bitmap_tags": 1710,
+      "image_records": 1940,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "100_citadel",
+      "bitmap_tags": 1708,
+      "image_records": 1964,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "110_hc",
+      "bitmap_tags": 1164,
+      "image_records": 1395,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "120_halo",
+      "bitmap_tags": 1463,
+      "image_records": 1654,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "130_epilogue",
+      "bitmap_tags": 937,
+      "image_records": 1051,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "chill",
+      "bitmap_tags": 1064,
+      "image_records": 1275,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "construct",
+      "bitmap_tags": 1109,
+      "image_records": 1313,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "cyberdyne",
+      "bitmap_tags": 1169,
+      "image_records": 1388,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "deadlock",
+      "bitmap_tags": 1203,
+      "image_records": 1455,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "guardian",
+      "bitmap_tags": 1056,
+      "image_records": 1272,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "isolation",
+      "bitmap_tags": 1088,
+      "image_records": 1297,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "mainmenu",
+      "bitmap_tags": 581,
+      "image_records": 834,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "riverworld",
+      "bitmap_tags": 1092,
+      "image_records": 1352,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "salvation",
+      "bitmap_tags": 974,
+      "image_records": 1218,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "shrine",
+      "bitmap_tags": 1113,
+      "image_records": 1335,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "snowbound",
+      "bitmap_tags": 1085,
+      "image_records": 1326,
+      "empty_bitmap_tags": 0
+    },
+    {
+      "map": "zanzibar",
+      "bitmap_tags": 1272,
+      "image_records": 1495,
+      "empty_bitmap_tags": 0
+    }
+  ]
+}

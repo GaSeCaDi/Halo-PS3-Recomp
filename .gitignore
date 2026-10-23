@@ -1,0 +1,26 @@
+# Original game and derived proprietary data
+HALO 3/
+*.map
+*.xex
+*.dll
+*.pdb
+*.bin
+research/tag-index-reference/
+research/ghidra-project/
+research/input/
+research/startup*/
+research/engine-entry*/
+research/locked-ui-decoded.png
+# Local tools and generated build files
+tools/
+downloads/
+build/
+dist/
+logs/
+*.elf
+*.self
+*.pkg
+__pycache__/
+*.pyc
+.env
+.env.*

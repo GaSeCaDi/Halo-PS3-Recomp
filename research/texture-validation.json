@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "texture": "ui\\halox\\campaign\\locked_ui",
+  "resource_id": "e8fc0799",
+  "width": 284,
+  "height": 93,
+  "pixels_compared": 26412,
+  "bytes_compared": 105648,
+  "pixel_crc32": "d69c08d1",
+  "page_crc32": "0007c6ef",
+  "blocks_compared": 1704
+}

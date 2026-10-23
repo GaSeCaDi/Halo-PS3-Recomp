@@ -1,0 +1,13 @@
+Core:
+  Max LLVM Compile Threads: 2
+Video:
+  Renderer: Vulkan
+  Shader Mode: Async Recompiler (multi-threaded)
+  Shader Compiler Threads: 2
+  Vulkan:
+    Adapter: NVIDIA GeForce GTX 1650 Ti
+
+Miscellaneous:
+  Exit RPCS3 when process finishes: true
+  Start games in fullscreen mode: false
+
